@@ -1,0 +1,80 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Emilys Candy', cursive;
+    background-color: #fbd9ac;
+}
+
+.title-text{
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    top: 20px;
+    left: 470px;
+}
+
+.main{
+    position: relative;
+    background-image: url("bg.png");
+    width: 1080px;
+    height: 608px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+
+.container{
+    display: flex;
+}
+
+.category{
+    text-align: center;
+    position: absolute;
+    top: 100px;
+}
+
+#category1{
+    left: 190px;
+}
+#category2{
+    left: 465px;
+}
+#category3{
+    left: 730px;
+}
+
+input[type="submit"]{
+    width: 150px;
+    font-size: 15px;
+    font-family: 'Emilys Candy', cursive;
+
+
+}
+
+input[type="submit"]:hover{
+    background-color: lightyellow;
+    font-family: 'Emilys Candy', cursive;
+    cursor: pointer;
+
+}
+
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+.info{
+    position: absolute;
+    top: 312px;
+    left: 250px;
+    width: 547px;
+    height: 270px;
+
+}
+

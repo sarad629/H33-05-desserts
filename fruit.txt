@@ -1,0 +1,11 @@
+bowl
+banana
+apple
+kiwi
+mango
+pineapple
+
+Cut the fruit
+Put it in the bowl
+Put in the fridge
+Serve cold
